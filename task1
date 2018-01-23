@@ -1,0 +1,10 @@
+x = Distance_in_km = 10
+t = Time_in_seconds = (43*60) + 30
+d = Distance_in_miles = 10/1.61
+a = Average_time_per_miles = t/d
+
+print(a)
+
+s =  speed_in_mph = d/(t/3600)
+
+print(s)
